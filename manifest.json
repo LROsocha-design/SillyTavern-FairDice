@@ -1,0 +1,12 @@
+{
+    "display_name": "Fair Dice",
+    "loading_order": 104,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "The Fair Dice authors",
+    "version": "1.0.0",
+    "homePage": "https://github.com/LROsocha-design/SillyTavern-FairDice",
+    "auto_update": true
+}

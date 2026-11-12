@@ -1,0 +1,45 @@
+.fair-dice-settings .fd-status {
+    margin: 4px 0 8px;
+    font-size: 0.9em;
+    line-height: 1.4;
+}
+
+.fair-dice-settings .fd-label {
+    margin-top: 8px;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.fair-dice-settings #fd_toggle_chat {
+    width: fit-content;
+    margin-bottom: 6px;
+}
+
+.fair-dice-settings .fd-presets {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin: 4px 0;
+}
+
+.fair-dice-settings .fd-rolls {
+    max-height: 220px;
+    overflow-y: auto;
+    font-size: 0.85em;
+    opacity: 0.9;
+}
+
+.fair-dice-settings .fd-roll {
+    padding: 3px 0;
+    border-bottom: 1px solid var(--SmartThemeBorderColor);
+    overflow-wrap: anywhere;
+}
+
+.fair-dice-settings .fd-time {
+    opacity: 0.6;
+    margin-right: 4px;
+}
+
+#fd_wand_button.fd-on .extensionsMenuExtensionButton {
+    color: var(--SmartThemeQuoteColor);
+}
